@@ -2,7 +2,6 @@
 
 This is the first file in this repo.
 
-## Level 2 Heading
+## Website Contents
 
-Peter woz here
-Changed again
+1. index.html
